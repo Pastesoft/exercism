@@ -1,1 +1,2 @@
-# exercism
+# Exercism GitHub Syncer
+
